@@ -7,7 +7,7 @@
   },
   "scripts": {
     "schema-codegen": "schema-codegen DemoRoom.ts --csharp --output ../Assets/",
-    "start": "nodemon --watch '**.ts' --exec ts-node ./myindex.ts"
+    "start": "nodemon --watch '**.ts' --exec ts-node ./MyIndex.ts"
   },
   "engines": {
     "node": ">= 8.x"
